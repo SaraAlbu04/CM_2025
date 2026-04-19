@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "436773552694",
+    "project_id": "ghost-mappers",
+    "storage_bucket": "ghost-mappers.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436773552694:android:d091ff7a4dc616b2434e97",
+        "android_client_info": {
+          "package_name": "com.example.ghostmappers"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGAy9P6FUgKs7z_DHKrxDUCVD3otm7xTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
